@@ -3,7 +3,7 @@
 
 ### Program Menampilkan Nilai (Tugas, UTS, UAS, Nilai Akhir) dengan DICTIONARY
 * FLOWCHART :
-* ![img](https://github.com/raissaputra/praktikum-09/blob/main/assets/flowchart.png)
+* ![img](https://github.com/raissaputra/praktikum-10/blob/main/praktikum/assets/flowchart.png)
 * OUTPUT PROGRAM `inputNilai.py`:
 * ![img](https://github.com/raissaputra/praktikum-10/blob/main/praktikum/assets/lihat.png)
 * ![img](https://github.com/raissaputra/praktikum-10/blob/main/praktikum/assets/tambah.png)
